@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/weather/static/css/main.a8fce1aa.css",
-    "main.js": "/weather/static/js/main.c846bd0b.js",
-    "static/media/niagara.jpg": "/weather/static/media/niagara.a7d3c3f90623e7d231a7.jpg",
-    "index.html": "/weather/index.html",
-    "main.a8fce1aa.css.map": "/weather/static/css/main.a8fce1aa.css.map",
-    "main.c846bd0b.js.map": "/weather/static/js/main.c846bd0b.js.map"
+    "main.css": "/static/css/main.939b04f7.css",
+    "main.js": "/static/js/main.fa28b8fc.js",
+    "static/media/niagara.jpg": "/static/media/niagara.a7d3c3f90623e7d231a7.jpg",
+    "index.html": "/index.html",
+    "main.939b04f7.css.map": "/static/css/main.939b04f7.css.map",
+    "main.fa28b8fc.js.map": "/static/js/main.fa28b8fc.js.map"
   },
   "entrypoints": [
-    "static/css/main.a8fce1aa.css",
-    "static/js/main.c846bd0b.js"
+    "static/css/main.939b04f7.css",
+    "static/js/main.fa28b8fc.js"
   ]
 }
